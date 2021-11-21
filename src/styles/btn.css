@@ -1,0 +1,44 @@
+.icecream-btn {
+  border: none;
+  padding: 1%;
+  border-radius: 20px;
+  background-color: rgb(90, 47, 67);
+  color: azure;
+  font-weight: bold;
+}
+.icecream-btn:hover {
+  opacity: 0.9;
+}
+
+.cart-btn {
+  margin-top: 2%;
+  border: none;
+  border-radius: 20px;
+  background-color: rgba(121, 36, 71, 0.842);
+  font-weight: bold;
+  color: aliceblue;
+}
+.category-btn {
+  margin-top: 2%;
+  border: none;
+  border-radius: 20px;
+  background-color: rgba(41, 42, 61, 0.842);
+  color: azure;
+  font-weight: bold;
+}
+.category-btn:hover {
+  opacity: 0.9;
+  color: azure;
+}
+.category-price-btn {
+  margin-top: 2%;
+  border: none;
+  border-radius: 20px;
+  background-color: rgba(214, 164, 185, 0.842);
+  color: black;
+  font-weight: bold;
+}
+.category-price-btn:hover {
+  opacity: 0.9;
+  color: black;
+}
